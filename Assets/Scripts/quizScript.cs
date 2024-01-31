@@ -44,7 +44,7 @@ public class quizScript : MonoBehaviour
 
         new Question
         {
-            Text = "Halli Hallo, wer sitzt am Klo?",
+            Text = "Halli hallo wer sitzt am Klo?",
             CorrectAnswer = "1 Da Krampus und da Nikolo",
             WrongAnswers = new List<string> { "2 Die Omama", "3 da Peda" },
             QuestionImage = null,
@@ -52,9 +52,9 @@ public class quizScript : MonoBehaviour
 
         new Question
         {
-            Text = "Hudri Wudri eh scho wissn...",
-            CorrectAnswer = "1 gestan hods mi nieder gschmissn",
-            WrongAnswers = new List<string> { "2 heite is ma de hosn zrissn", "3 i schlof auf an daunen kissn" },
+            Text = "Fischers Firtz, fischt frische Fische,...",
+            CorrectAnswer = "1 ...frische Fische, fischt Fischers Fritz",
+            WrongAnswers = new List<string> { "2 ...frische Tische, fischt Tischers Fritz", "3 ...frische Zische, fischt Zischers Fritz" },
             QuestionImage = null,
         },
 
